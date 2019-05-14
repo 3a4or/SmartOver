@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SmartOverTest</string>
+    <string name="msg_added">Item Added Successfully</string>
+    <string name="msg_deleted">Item Deleted Successfully</string>
+    <string name="label_no_internet">No Internet Connection</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
